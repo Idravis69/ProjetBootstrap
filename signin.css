@@ -1,0 +1,22 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.formulaire {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+

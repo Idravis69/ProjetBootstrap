@@ -1,0 +1,39 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tout {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+h2 {
+    margin-top: 6%;
+    font-size: xx-large;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-text {
+    display: flex;
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}

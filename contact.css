@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tout {
+    display: flex;
+    margin-top: 3%;
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

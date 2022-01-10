@@ -1,0 +1,32 @@
+.container-fluid {
+    background-color: lightseagreen;
+    padding: 5px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.photo {
+    display: flex;
+    width: 30%;
+    margin-left: 35% ;
+    margin-top: 2%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.para {
+    display: flex;
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
